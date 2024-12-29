@@ -16,3 +16,7 @@ def pregunta_01():
     El gráfico debe salvarse al archivo `files/plots/news.png`.
 
     """
+    
+
+
+
